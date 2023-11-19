@@ -1,0 +1,8 @@
+{
+    "python.analysis.autoImportCompletions": true,
+     "editor.cursorSmoothCaretAnimation" :"on",
+     "editor.guides.bracketPairs" :true,
+     "editor.bracketPairColorization.enabled": true,
+     "editor.acceptSuggestionOnCommitCharacter": true,
+
+}
